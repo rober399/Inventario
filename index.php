@@ -173,7 +173,7 @@ $result = $conn->query($sql);
     </div>
 
     <div class="menu">
-        <a href="inicio.html">Ingresar Producto</a>
+        <a href="index.html">Ingresar Producto</a>
         <a href="index.php">Lista de Productos</a>
     </div>
 
